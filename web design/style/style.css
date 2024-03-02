@@ -1,0 +1,61 @@
+*{
+  
+    font-family:Vazirmatn;
+    direction: rtl;
+}
+p{
+    color: rgb(102, 100, 100);
+}
+.headerbox{
+    margin: 10px;
+}
+#headerlogo{
+    margin-right: 8cm;
+}
+#firstpage{
+    margin-right: 6cm;
+}
+.headbanner{
+   padding-right: 50px;
+}
+#homepage{
+    padding-bottom: 5cm;
+    padding-right: 3cm;
+    padding-top:14cm;
+    background-color:rgba(112, 214, 255, 0.76);
+    background-image: url(https://qrbama.com/template/images/home_social/banner_img/img_1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 32%;
+}
+h2{
+   text-align: center;
+   margin-top: 3cm;
+   font-size: 60px;
+   font-weight: bolder;
+
+}
+.introduction{
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+    font-size: 18;
+}
+.introductionimg{
+    width: 400px;
+}
+#customers{
+    padding-bottom: 20cm;
+    padding-right:40%;
+    margin-top: 6cm;
+   background-image: url(https://qrbama.com/template/images/home_social/watching_img.png);
+   background-repeat: no-repeat;
+   background-size:25%;
+   background-position: 1250px;
+}
+.customersname{
+
+    margin-right: 2.5cm;
+    padding-right: 20px;
+    
+}
